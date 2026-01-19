@@ -1,14 +1,39 @@
-Car Shopping Garage python unit test
+# 🚗 Car Shop Garage – Unit Testing Project
 
-A simple project that demonstrates basic of unit tests using pytest to ensure code quality and correctness.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Testing](https://img.shields.io/badge/Testing-pytest-success)
 
-Features
-Limited Capacity: Create a Garage with a specific number of slots.
+---
 
-Add Cars: Add cars (represented as strings) to the garage.
+## 📌 Project Overview
 
-Overflow Prevention: The system raises an OverflowError if you try to add a car to a full garage.
+The **Car Shop Garage** project is a **unit testing–focused Python application** that models a simple garage system with a limited capacity for cars.
 
-Car Count: Easily check how many cars are currently in the garage.
+The project demonstrates:
+- Object-oriented design using Python classes
+- Validation and exception handling
+- Automated unit testing using **pytest**
+- Testing real-world business logic such as capacity limits and price calculations
 
-Total Value Calculation: Calculate the total monetary value of all cars based on a given price list.
+This project is ideal for showcasing **Python testing skills** and **test-driven development fundamentals**.
+
+---
+
+
+## 🚀 Features
+
+- ➕ Add cars to a garage with a fixed capacity  
+- 🚫 Prevent adding cars when the garage is full  
+- 📊 Track the number of cars in the garage  
+- 📋 Retrieve a list of stored cars  
+- 💰 Calculate total value of cars using a price list  
+- 🧪 Fully tested using pytest  
+
+---
+
+## 🧑‍💻 Skills & Technologies
+
+- **Programming Language:** Python  
+- **Testing Framework:** pytest  
+- **Development Practices:** Unit Testing 
+--- 
